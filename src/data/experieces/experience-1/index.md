@@ -1,9 +1,15 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'IPG Mediabrands'
+position: 'Analytics & Research Intern'
+startDate: 'Jun 2018'
+endDate: 'Aug 2018'
 ---
+<hr>
+Created a full sorting, infographic, and an automatically updating dashboard with 28 metric that is heavily used by the Decision Sciences and Research team as a direct guidance to BMW/MINI.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Discovered and illustrated over 60 new key insights that the Strategy team used to create an informative presentation.
+
+Carried out QA for every one of North and West regional dashboards sorted by different metrics.
+
+Improved productivity by automating manual data analysis by using various macros in Microsoft Excel.

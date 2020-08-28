@@ -1,11 +1,15 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+company: 'Rutgers Department of Industrial and Systems Engineering'
+position: 'Undergraduate Researcher'
+startDate: 'Jun 2018'
+endDate: 'Jan 2019'
 ---
+<hr>
+Analyzed and adapted existing work from previous team members to jump start productivity in 2 weeks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Engineered over 15 Unity builds that fixed 4 large game bugs/issues and 5 visual bugs.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Communicated daily with team members and lead professor on Slack to issues 5-10 fixes a day.
+
+Implemented dynamic functionality to improve UX and UI across mobile, web, and tablet.
