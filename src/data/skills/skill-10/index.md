@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'SQL'
+title: 'Dataroma'
 percentage: 70
 ---
