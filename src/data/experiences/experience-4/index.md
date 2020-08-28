@@ -2,7 +2,7 @@
 category: 'experiences'
 company: 'Havas Media'
 position: 'Analyst'
-startDate: 'Sept 2019'
+startDate: 'Sep 2019'
 endDate: 'Mar 2020'
 ---
 <hr>
