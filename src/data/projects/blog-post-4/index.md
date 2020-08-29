@@ -1,7 +1,7 @@
 ---
-category: 'blog'
+category: 'project'
 cover: './cover.jpg'
-title: 'Blog Post 4'
+title: 'Project 4'
 description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
 date: '2020-01-21'
 tags: ['Web Design', 'UX/UI']

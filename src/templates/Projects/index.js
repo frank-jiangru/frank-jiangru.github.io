@@ -10,7 +10,7 @@ import FormatHtml from 'components/utils/FormatHtml';
 
 import * as Styled from './styles';
 
-const BlogPost = ({ data, pageContext }) => {
+const Projects = ({ data, pageContext }) => {
   const post = data.markdownRemark;
   const { previous, next } = pageContext;
 
@@ -41,10 +41,10 @@ const BlogPost = ({ data, pageContext }) => {
   );
 };
 
-export default BlogPost;
+export default Projects;
 
 export const query = graphql`
-  query BlogPostBySlug($slug: String!) {
+  query ProjectsBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {

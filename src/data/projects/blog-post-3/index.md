@@ -1,7 +1,7 @@
 ---
-category: 'blog'
+category: 'project'
 cover: './cover.jpg'
-title: 'Blog Post 3'
+title: 'Project 3'
 description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
 date: '2020-01-12'
 tags: ['Design', 'Photoshop']

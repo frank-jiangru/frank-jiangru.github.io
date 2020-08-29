@@ -4,13 +4,13 @@ import Layout from 'components/Layout';
 import SEO from 'components/SEO';
 import Posts from 'components/Posts';
 
-const BlogPage: React.FC = () => {
+const ProjectPage: React.FC = () => {
   return (
     <Layout>
-      <SEO title="Blog" />
+      <SEO title="Project" />
       <Posts />
     </Layout>
   );
 };
 
-export default BlogPage;
+export default ProjectPage;
