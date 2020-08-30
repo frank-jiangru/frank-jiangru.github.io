@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Frank Jiang`,
-    description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    description: `Personal Site`,
+    author: `Jordan Chu`
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -40,7 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-personal-website-starter`,
+        name: `frank-jiang-portfolio-site`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#ed64a6`,

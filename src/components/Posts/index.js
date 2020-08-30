@@ -12,14 +12,14 @@ import * as Styled from './styles';
 const Posts = () => {
   const { markdownRemark, allMarkdownRemark } = useStaticQuery(graphql`
     query {
-      markdownRemark(frontmatter: { category: { eq: "blog section" } }) {
+      markdownRemark(frontmatter: { category: { eq: "projects section" } }) {
         frontmatter {
           title
           subtitle
         }
       }
       allMarkdownRemark(
-        filter: { frontmatter: { category: { eq: "blog" }, published: { eq: true } } }
+        filter: { frontmatter: { category: { eq: "projects" }, published: { eq: true } } }
         sort: { fields: frontmatter___date, order: DESC }
       ) {
         edges {
