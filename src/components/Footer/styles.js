@@ -9,10 +9,10 @@ export const Links = styled.div`
   ${tw`flex items-center justify-center w-full`};
 
   a {
-    ${tw`text-indigo-900 hover:text-indigo-600 mx-2`};
+    ${tw`text-gray-700 hover:text-black-100 mx-2`};
   }
 `;
 
 export const Link = styled.a`
-  ${tw`text-indigo-900 hover:text-indigo-600 mx-2`};
+  ${tw`text-gray-700 hover:text-black-100 mx-2`};
 `;
