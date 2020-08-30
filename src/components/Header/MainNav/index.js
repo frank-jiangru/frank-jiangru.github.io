@@ -13,7 +13,7 @@ const mainNavItems = [
   },
   {
     title: 'Projects',
-    slug: '/project/'
+    slug: '/projects/'
   },
   {
     title: 'Gallery',

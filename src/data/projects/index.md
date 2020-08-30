@@ -1,5 +1,5 @@
 ---
-category: 'project section'
-title: 'Project'
-subtitle: 'All my posts'
+category: 'projects section'
+title: 'Projects'
+subtitle: 'Projects'
 ---
