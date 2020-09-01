@@ -8,7 +8,7 @@ tags: ['tags', 'like of what techs', 'you used for', 'the project']
 published: true
 ---
 
-_Short description in italics!!!._.
+_Short description in italics!!!_
 
 **Some bolded stuff like talk about the techs you used**
 
