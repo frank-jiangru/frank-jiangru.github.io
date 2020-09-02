@@ -9,6 +9,7 @@ import Footer from 'components/Footer';
 import 'assets/styles/global.css';
 import GlobalStyles from 'assets/styles/globalStyles';
 import * as Styled from './styles';
+// import '../layout.css'
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
