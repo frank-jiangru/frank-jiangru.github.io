@@ -7,7 +7,7 @@ import Gallery from '../../gatsby-image-gallery/src';
 
 const GalleryPage = ({ data }) => {
   const images = data.images.edges.map(({ node }) => node.childImageSharp)
-  // Override some of Lightbox options to localise labels in French
+
   const lightboxOptions = {
     imageLoadErrorMessage: 'Impossible de charger cette image',
     nextLabel: 'Image suivante',

@@ -1,5 +1,5 @@
-import styled, { css } from 'styled-components'
-import PropTypes from 'prop-types'
+import styled, { css } from 'styled-components';
+import PropTypes from 'prop-types';
 
 const Col = styled.div`
   flex-grow: 0;
@@ -26,4 +26,4 @@ Col.propTypes = {
   md: PropTypes.number.isRequired,
 }
 
-export default Col
+export default Col;
