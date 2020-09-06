@@ -1,13 +1,13 @@
-import React, { useState } from 'react'
-import PropTypes from 'prop-types'
-import Img from 'gatsby-image'
-import Lightbox from 'react-image-lightbox'
+import React, { useState } from 'react';
+import PropTypes from 'prop-types';
+import Img from 'gatsby-image';
+import Lightbox from 'react-image-lightbox';
 
-import Row from './row'
-import Col from './column'
-import ImgWrapper from './img-wrapper'
+import Row from './row';
+import Col from './column';
+import ImgWrapper from './img-wrapper';
 
-import 'react-image-lightbox/style.css'
+import 'react-image-lightbox/style.css';
 
 const Gallery = ({
   images = null,
@@ -99,7 +99,7 @@ const Gallery = ({
   )
 }
 
-export default Gallery
+export default Gallery;
 
 Gallery.propTypes = {
   images: PropTypes.arrayOf(

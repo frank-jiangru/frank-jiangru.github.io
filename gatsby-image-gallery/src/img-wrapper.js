@@ -1,7 +1,7 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 const ImgWrapper = styled.div`
   margin: ${(props) => props.margin};
 `
 
-export default ImgWrapper
+export default ImgWrapper;
