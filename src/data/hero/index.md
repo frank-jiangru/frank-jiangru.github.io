@@ -9,4 +9,3 @@ descriptiondescriptiondescription description description description descriptio
 linkTo: '/resume/'
 linkText: 'View Resume'
 ---
-<div>hello</div>
